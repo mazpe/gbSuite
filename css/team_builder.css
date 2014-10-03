@@ -1,0 +1,188 @@
+.team-builder
+{
+	width	:	auto;
+	border-bottom	:	1px solid #CC0000;
+	background-color: #FFFFFF;
+	/*padding:2px;*/
+}
+
+.team-builder-bar
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	font-weight	:	bold;
+	width	:	auto;
+	border-bottom	:	1px solid #6D84B4;
+	/*height	:	20px;*/
+	padding-left:5px;
+}
+
+.team-builder-bar a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+}
+
+.team
+{
+	width:auto;
+	padding-bottom:10px;
+}
+
+.team label
+{
+	font-family	:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	font-weight	:	bold;
+	color	:	#333333;
+	padding-left	:	2px;
+	margin-right	:	15px;
+	height	:	15px;
+	
+}
+
+.team div
+{
+	width:auto;
+	padding-left:3px;
+	
+	
+}
+
+.team a
+{
+	font-family	:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#3B5998;
+	text-decoration	:	none;
+}
+
+.members
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	border:1px solid #CCCCCC;
+	background-color:#F7F7F7;
+	width:100%;
+}
+
+.members a
+{
+	color: black;
+}
+
+.members a:hover
+{
+	text-decoration:underline;
+}
+
+.team-name-add
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	color:#3B5998;
+}
+
+.team-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 12px;
+	font-weight	:	bold;
+	color:#3B5998;
+	margin:5px;
+}
+
+
+.team-members-table
+{
+	width				:	100%;
+	background-color	:	#F7F7F7;
+}
+
+.team-members-table td
+{
+	vertical-align:top;
+}
+
+/**DRAG AND DROP**/
+.team-builder-available-list-item
+{
+	background-color: #D1E6EC;
+	border:1px solid #7EA6B2;
+	cursor:hand;
+	/*padding-left: 10px;*/	
+}
+
+.team-builder-member-list-item
+{
+	background-color: #D8D4E2;
+	border:1px solid #6B4C86;
+	cursor:hand;	
+	/*padding-left: 10px;*/
+}
+
+#app1234567_team-builder-available-list
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif
+	font-size	:	11px;
+	color	:	#3B5998;
+}
+
+#app1234567_team-builder-member-list
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif
+	font-size	:	11px;
+	color	:	#3B5998;
+}
+
+.team-builder-list
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif
+	font-size	:	11px;
+	color		:	#3B5998;
+	background	: 	#FFFFFF;
+	border		: 	1px solid black;
+	cursor		: 	move;	
+	list-style	: 	none;
+	margin		:	0;
+	padding		: 	0;
+	/*width		:	150px;*/
+	min-height	:	280px;
+	height:auto;
+}
+
+.application table 
+{
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #3B5998;
+}
+
+.application th 
+{
+    font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #000000;
+}
+
+input 
+{
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 11px;
+    font-weight	: bold;
+    color	: #003399;
+}
+
+div a 
+{
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 12px;
+    color	: #3B5998;
+}
+
+.team-row
+{
+	border-bottom	:	1px solid #E9E9E9;
+	background	:	#FFFFFF;
+}
+

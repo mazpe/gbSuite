@@ -1,0 +1,84 @@
+/* The sorrounding chart box */
+
+.chartbox {
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 12px;
+	color:#333;
+	text-align: center;
+	margin:auto;
+	border:1px solid #333;
+	padding:5px;
+	padding-top:0px;
+	/*overflow:hidden;*/
+	background-color:#fff;
+	
+}
+
+.chartbox h2{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 14px;
+	font-weight:bold;
+	padding:0px;
+	margin:5px 0px;
+}
+
+/* Vertical chart elements */
+
+.barv
+{	
+	margin: 2px;	 
+	float:left;
+}
+
+.barvvalue 
+{
+	padding:0px;
+	margin:0px;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+
+/* Horizontal chart elements */
+
+.barh{
+	margin: 4px;
+	text-align:left;
+	clear:both;
+}
+
+.barhvalue {
+	padding:0px;
+	margin:0px 5px;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	overflow:hidden;
+	float:left;
+}
+
+.barhcaption 
+{
+	padding:0px;
+	margin:0px 5px;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 12px;
+	text-align: right;
+	overflow:hidden;
+	float:left;
+}
+
+
+.barhimage 
+{
+    float:left;
+}
+
+.report
+{
+	float:left;
+}
+
+

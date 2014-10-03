@@ -1,0 +1,108 @@
+.edit-setting
+{
+width:400px;
+border:1px solid #999999;
+background:white;
+}
+
+.edit-setting-title
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:11px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#6D84B4;
+height:20px;
+padding-top:5px;
+padding-left:3px;
+}
+
+.label-item
+{
+font-family	:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size	:	11px;
+font-weight	:	bold;
+color	:	#666666;
+padding-left	:	20px;
+text-align	:	right;
+width:100px;
+}
+
+.app-label
+{
+font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size	:	11px;
+}
+
+.question
+{
+background	:	white none repeat scroll 0% 0%;
+border-right	:	1px solid #D5D5D5;
+border-left	:	1px solid #D5D5D5;
+border-top	:	1px solid #D5D5D5;
+width	:	130px;
+padding-left	:	2px;
+padding-top	:	5px;
+}
+
+.sumary-simple
+{
+border-top	:	1px solid #D5D5D5;
+border-right	:	1px solid #D5D5D5;
+border-left	:	1px solid #D5D5D5;
+padding-left	:	2px;
+padding-top	:	3px;
+}
+
+.sumary-simple .list
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:11px;
+width:200px;
+}
+
+.dialog-table td
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:11px;
+}
+
+.element-friend
+{
+border-right	:	1px solid #D5D5D5;
+border-left	:	1px solid #D5D5D5;
+padding-left	:	2px;
+padding-top	:	5px;
+}
+
+.button-edit
+{
+border-right	:	1px solid #D5D5D5;
+border-left	:	1px solid #D5D5D5;
+border-top	:	1px solid #D5D5D5;
+border-bottom	:	1px solid #D5D5D5;
+padding-right:5px;
+padding-top:2px;
+padding-bottom:2px;
+text-align:right;
+background-color:#F9F9F9;
+}
+
+.button-submit
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+background-color:#006699;
+}
+
+.buttons
+{
+width:98%;
+text-align:center;
+height:30px;
+padding-top:10px;
+padding-right:5px;
+background-color:#F9F9F9;
+border-top:1px solid #D5D5D5;
+}

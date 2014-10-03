@@ -1,0 +1,16 @@
+#footer 
+{
+top: expression(eval(document.compatMode && document.compatMode=='CSS1Compat')
+ ? -1 + documentElement.scrollTop +(documentElement.clientHeight-this.clientHeight) :
+  -1 + document.body.scrollTop + 
+  (document.body.clientHeight-this.clientHeight));
+}
+
+
+.online-user
+{
+ top: expression(eval(document.compatMode && document.compatMode=='CSS1Compat')
+ ? -21 + documentElement.scrollTop +(documentElement.clientHeight-this.clientHeight) :
+  -21 + document.body.scrollTop + 
+  (document.body.clientHeight-this.clientHeight));
+}

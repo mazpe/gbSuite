@@ -1,0 +1,234 @@
+/*.body-overlayed embed, .body-overlayed object
+{
+	visibility:				hidden;
+}
+
+#app1234567_sbox-window embed, #app1234567_sbox-window object, #app1234567_sbox-window select
+{
+	visibility:				visible;
+}
+
+#app1234567_sbox-overlay
+{
+	position:				absolute;
+	background-color:		#000;
+}
+*/
+
+#app1234567_sbox-window
+{
+	height:auto;
+	width:100%;
+	top:5%;		
+	z-index:1000;	
+	background-color:		#000;
+	text-align:				left;
+	overflow:				visible;
+	padding:				10px;
+	-moz-border-radius:		3px;		
+}
+/*
+* html #app1234567_sbox-window
+{
+	top: 50% !important;
+	left: 50% !important;
+}
+*/
+
+/*
+.sbox-loading #sbox-content
+{
+	background-image:		url(../images/spinner.gif);
+	background-repeat:		no-repeat;
+	background-position:	center;
+}
+
+#app1234567_sbox-content
+{
+	clear:					both;
+	overflow:				auto;
+	background-color:		#fff;
+	height:					100%;
+	width:					100%;
+}
+
+.sbox-content-image#sbox-content
+{
+	overflow:				visible;
+}
+
+#app1234567_sbox-image
+{
+	display:				block;
+}
+
+.sbox-content-image img
+{
+	display:				block;
+}
+
+.sbox-content-iframe#app1234567_sbox-content
+{
+	overflow:				visible;
+}*/
+
+#app1234567_sbox-window
+{
+	border:3px solid silver;
+	background: #FFFFFF;
+	text-align:right;
+	width:auto;
+}
+
+#app1234567_sbox-content
+{
+	border:1px solid #660000;
+	padding-left: 3px;
+	padding-top:3px;
+	background: #FFFFFF;
+}
+
+.sand-box-input
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	width:80px;
+}
+
+.sand-box-table td
+{
+	padding-left:3px;
+	text-align:left;
+}
+
+#app1234567_back-sbox-content
+{
+	text-align:center;
+}
+
+#app1234567_trade-sbox-content
+{
+	text-align:center;
+}
+
+.desk-log-table
+{
+	background-color:#FFFFFF;
+}
+
+.desk-log-data
+{
+	border-right:1px solid #E9E9E9;
+}
+
+.desk-log-models
+{
+	font-family:Arial;
+	font-size:11px;
+	height:20px;
+	width:auto;
+	
+}
+
+.desk-log-cell
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	11px;
+	border-left:1px solid #E9E9E9;
+}
+
+.desk-log-input
+{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#000000;
+	width:91%;
+}
+
+.desk-log-header
+{
+	border-right:1px solid silver;
+	border-bottom:1px solid silver;
+	border-top:1px solid silver;
+}
+
+.desk-log-model-cell
+{
+	text-align:center;
+}
+
+.desk-log-table
+{
+ 	border:1px solid silver;
+}
+
+.desk-log-cell-form
+{
+	text-align:center;
+}
+
+.desk-log-separator-header
+{
+	background-image: url(/images/resources/separator_h.gif);
+	background-repeat:repeat-x;
+	background-position:center;
+}
+
+.desk-log-total-row
+{
+	font-family:Arial;
+	font-size:11px;
+	background:#EAEAEA;
+}
+
+.desk-log-options a
+{
+	/*font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;*/
+	/*margin-left:5px;*/
+}
+
+.desk-log-options
+{
+	text-align:center;
+	padding-bottom:3px;
+}
+
+.desk-log-button
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: #CC0000;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    border: outset;
+    border-width: 1px;
+}
+
+.desk-log-summary-label
+{
+	font-weight:bold;
+	text-align:right;
+	padding-right:5px;
+}
+
+.desk-log-header a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;	
+}
+
+.desk-log-header a:hover
+{
+	text-decoration:underline;	
+}

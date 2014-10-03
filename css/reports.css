@@ -1,0 +1,470 @@
+.app-report
+{
+	border-bottom-style	:	solid;
+	border-bottom-width	:	1px;
+	border-bottom-color	:	#CC0000;
+	padding-right	:	3px;
+	padding-left	:	3px;
+	background-color:   #FFFFFF;	
+}
+
+.app-report .graphic-table
+{
+	border-style	:	solid;
+	border-width	:	1px;
+	border-color	:	white;
+}
+
+.app-report-table
+{
+	border-left-style	:	solid;
+	border-left-width	:	1px;
+	border-left-color	:	#E9E9E9;
+	border-bottom-style	:	solid;
+	border-bottom-width	:	1px;
+	border-bottom-color	:	#E9E9E9;
+}
+
+.report-row
+{
+	background-color: white;
+}
+
+
+.report-row-over
+{
+	font-size:11px;
+	text-decoration:none;
+	background-color	:	#E1FFFF;
+	/*#E1FFFF*/
+}
+
+.report-row-over a
+{
+	font-size:11px;
+	text-decoration:none;
+}
+
+.report-cell-over
+{
+	text-decoration:none;
+	background-color: #EEEEDD;
+}
+
+.app-report-table th
+{
+	background-color	:	white;
+}
+
+.app-report .graphic-table td
+{
+	border-right-style	:	solid;
+	border-right-width	:	1px;
+	border-right-color	:	white;
+}
+
+.app-report td
+{
+	border-right-style	:	solid;
+	border-right-color	: #E9E9E9;
+	border-right-width	:	1px;
+}
+
+.app-report th
+{
+	border-right-style	:	solid;
+	border-right-color	: #E9E9E9;
+	border-right-width	:	1px;
+	border-bottom-style	:	solid;
+	border-bottom-color	: #E9E9E9;
+	border-bottom-width	:	1px;
+	border-top-style	:	solid;
+	border-top-color	:#E9E9E9;
+	border-top-width	:	1px;
+}
+
+.totals td
+{
+	color	:	black;
+	font-weight	:	bold;
+	border-right-style	:	solid;
+	border-right-color	: #E9E9E9;
+	border-right-width	:	1px;
+	border-top-style	:	solid;
+	border-top-color	: #E9E9E9;
+	border-top-width	:	1px;
+	background-color	:	#E9E9E9;
+	text-align	:	right;
+}
+
+.totals2 td
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	color	:	black;
+	font-weight	:	bold;
+	font-size:10px;
+	border-right-style	:	solid;
+	border-right-color	: #E9E9E9;
+	border-right-width	:	1px;
+	border-top-style	:	solid;
+	border-top-color	: #E9E9E9;
+	border-top-width	:	1px;
+	background-color	:	#E9E9E9;
+	
+}
+
+
+.totals th
+{
+	color	:	black;
+	font-weight	:	bold;
+	border-right-style	:	solid;
+	border-right-color	: #E9E9E9;
+	border-right-width	:	1px;
+	border-top-style	:	solid;
+	border-top-color	: #E9E9E9;
+	border-top-width	:	1px;
+	background-color	:	#E9E9E9;
+	text-align	:	center;
+}
+
+.application h3
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	14px;
+	font-weight	:	bold;
+	color	:	#000066;
+}
+
+.application h4
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	12px;
+	font-weight	:	bold;
+}
+
+.application h5
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	12px;
+	font-weight	:	bold;
+}
+
+.report-number
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	text-align	:	right;	
+}
+
+.report-number2
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+}
+
+.highlight1
+{
+	background-color	:	#00CCFF;
+}
+
+.highlight2
+{
+	background-color	:	#FFBFBF;
+}
+
+.highlight3
+{
+	background-color	:	#FFFFD5;
+}
+
+.highlight4
+{
+	background-color	:	#E9E9E9;
+}
+
+.report-row a
+{
+	text-decoration	:	none;
+	font-size	:	11px;
+}
+
+.report-row2 td
+{
+	border-top-color	:	#E9E9E9;
+	border-top-style	:	solid;
+	border-top-width	:	1px;
+}
+
+.report-title
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	14px;
+	font-weight	:	bold;
+	color	:	#000066;
+}
+
+.report-subtitle
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000066;
+}
+
+.graphic-table td
+{
+	background-color	:	white;
+}
+
+.team-row
+{
+	border-bottom:1px solid #E9E9E9;
+}
+
+
+.power-rank-header
+{
+	border-bottom:1px solid #E9E9E9;
+	border-right:1px solid #E9E9E9;
+}
+
+.power-rank-separator
+{
+	border-left:1px solid #E9E9E9;
+	border-right:1px solid #E9E9E9;
+	
+}
+
+.report-cell-center
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	text-decoration:none;
+	text-align	:	center;
+}
+
+.report-cell-over-center
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	text-decoration:none;
+	background-color: #EEEEDD;
+	text-align	:	center;
+}
+
+.report-number
+{
+	border-left:1px solid #E9E9E9;
+}
+
+.desk-log-table
+{
+	background-color:#FFFFFF;
+}
+
+.desk-log-data
+{
+	border-right:1px solid #E9E9E9;
+}
+
+.desk-log-models
+{
+	font-family:Arial;
+	font-size:11px;
+	height:20px;
+	width:50px;
+	
+}
+
+.desk-log-cell
+{
+	border-left:1px solid #E9E9E9;
+}
+
+.desk-log-input
+{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#000000;
+	width:91%;
+}
+
+
+#new-car-sales
+{
+	background-color:#FFFFFF;
+}
+
+.desk-log-header
+{
+	border-right:1px solid silver;
+	border-bottom:1px solid silver;
+	border-top:1px solid silver;
+}
+
+.desk-log-table
+{
+ 	border:1px solid silver;
+}
+
+.desk-log-separator-header
+{
+	background-image: url(/images/resources/separator_h.gif);
+	background-repeat:repeat-x;
+	background-position:center;
+}
+
+.desk-log-total-row
+{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	background:#EAEAEA;
+}
+
+
+
+
+/*.power-rank-none
+{
+	background-color>
+}*/
+
+
+/* ESTAS CLASES SON DEL COACH REPORT*/
+.name-report
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+}
+
+.date-report
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+	width:100%;
+}
+
+.header-report
+{
+	width:100%;	
+}
+
+.header-report td
+{
+	border-right:1px solid #ffffff !important;
+}
+
+.units
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.gross-profit
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.leads
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.title-table
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+	border-bottom:1px solid silver;
+}
+
+.header-field
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	border-bottom:1px solid silver;
+	text-align:center;
+}
+
+.data-field
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	text-align:center;
+}
+
+.positive-performance
+{
+	width:70%;
+}
+
+.opportunities
+{
+	width:70%;
+}
+
+.action-plan-items
+{
+	width:70%;
+}
+
+.follow-up-prior-month
+{
+	width:70%;
+}
+
+.title-list
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+	border-right:1px solid #ffffff !important;
+}
+
+.list
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	border-bottom:1px solid #000066;
+	border-right:1px solid #ffffff !important;
+}
+
+.separator
+{
+	border-left:1px solid silver;
+	border-right:1px solid silver;
+	width:1px;
+}
+
+.sign-table
+{
+	width:55%;
+}
+
+.sign-row
+{
+	text-align:center;
+	border-right:1px solid #ffffff !important;
+}
+
+.sign
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	border-top:1px solid #000066;
+	width:80%;
+
+}
+

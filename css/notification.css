@@ -1,0 +1,49 @@
+.notification-alert
+{
+width:80%;
+border-style:solid;
+border-width:1px;
+border-color:#999999;
+}
+
+.alert-title
+{
+	width	:	80%;
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	: #ffffff;
+	background	:	#3B5998;
+}
+
+.alert-subtitle label
+{
+color	:	#3B5998;
+}
+
+.alert-subtitle
+{
+	width	:	80%;
+	background-color	:	#E9E9E9;
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000000;
+}
+
+.alert-item td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#000066;
+	border-bottom-style	:	solid;
+	border-bottom-width	:	1px;
+	border-bottom-color	:	#E9E9E9;
+}
+
+.alert-item
+{
+	width:80%;
+	padding-left:5px;
+	padding-right:5px;
+}

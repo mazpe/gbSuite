@@ -1,0 +1,353 @@
+.inbox 
+{
+	width	:	100% !important;
+	border-bottom-style	:	solid;	
+	border-bottom-width	:	1px;
+	border-bottom-color	:	#CC0000;
+	background-color:#FFFFFF;	
+}
+
+.inbox-menu
+{
+	
+	background-color:#CC0000;
+	height:25px;
+	padding-top:2px;
+	border-bottom:3px solid #FF6A6A;
+	border-top:3px solid #FF6A6A;
+}
+
+.inbox-menu a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color	:	#FFFFFF;
+	text-decoration:none;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+.inbox-menu a:hover
+{
+	color	:	#FF6A6A;
+}
+
+.list-inbox
+{
+	width:100%;
+	padding:0px;
+}
+
+.inbox-element
+{
+	/*border-style	:	solid;
+	border-width	:	1px;
+	border-color	:	#999999;*/
+	width:100%;
+	float	:left;
+	/*height:100%;*/
+	text-align:center;
+	background-color:green;
+}
+
+.inbox-element-left
+{
+	width:10%;
+}
+
+.elements-item-right
+{
+	width:90%;
+}
+
+
+.elements-item
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#CC0000;
+	border-bottom:1px solid #FF6A6A;
+	height:30px;
+	padding-top:2px;
+}
+
+.elements-item a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.elements-item a:hover
+{
+	color:#FF6A6A;
+	text-decoration:underline;
+}
+
+.email-name a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+}
+
+.email-name a:hover
+{
+	color:#CC0000;
+}
+
+
+
+
+.div1
+{
+	width:100%;
+}
+
+.table-list-inbox
+{
+	width	:	100%;
+	/*float	:	left;*/
+	border: 1px solid #CC0000;
+}
+
+.table-list-inbox th
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	font-weight	:	bold;
+	color	:	#000066;
+	background-color	:	#EEEEEE;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-right-color:#CC0000;
+}
+
+.table-list-inbox td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#000066;
+	border-top-style	:	solid;
+	border-top-width	:	1px;
+	border-top-color	:	#CCCCCC;
+	padding-left	:	1px;
+}
+
+.check-email
+{
+	text-align:center;
+}
+
+.order-up
+{
+	background-repeat	:	no-repeat;
+	text-align	:	left;
+	width	:	20px;
+	float	:	right;
+}
+
+/*.check-delete
+{
+	width	:	20px;
+	text-align	:	center;
+	padding-left	:	5px;
+}
+
+.check-email
+{
+	width	:	20px;
+	text-align	:	center;
+}*/
+
+/*.options tr
+{
+	text-align:left;
+}*/
+
+/*.options li
+{
+	font-family	:	Arial;
+	font-size	:	10px;
+	font-weight	:	bold;
+	color	:	#000066;
+	text-align	:	center;
+	background-color	:	#E9E9E9;
+	list-style-type	:	none;
+	text-decoration	:	none;
+	width	:	100px;
+	float	:	left;
+	padding	:	4px;
+	border-left-style	:	solid;
+	border-left-width	:	1px;
+	border-left-color	:	#666666;	
+}*/
+
+/*.options li:hover
+{
+    background-color	:	#CCCCCC;
+}*/
+
+.inbox-bar-selector
+{
+	width:100%;
+	float:left;
+}
+
+.button-selector
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#FFFFFF;
+	background-color:#6D84B4;
+}
+
+.inbox-page-number
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#000066;
+	text-align:center;
+	width:10px;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.reading-message
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#000066;
+	border-bottom:1px solid #666666;
+	background-color:#E8E8FF;
+	width:90%;
+}
+
+.reading-message td
+{
+	padding-left:3px;
+}
+
+.email-date
+{
+	font-weight:bold;
+	width:35px;
+	text-align:right;
+	border-left:1px solid #CCCCCC;
+}
+
+.message-text
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	width:89%;
+	height:60px;
+}
+
+.attachment-file
+{
+	width:80%;
+	text-align:left;
+}
+
+.attachment-file label
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000000;
+}
+
+.attachment-file a
+{
+	text-decoration:none;	
+}
+
+.button-browse
+{
+	background-color:#6D84B4;
+}
+
+
+.attach-file-input
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	width:30%;
+}
+
+.list-attach-file
+{
+	font-family:Arial;
+	font-size:11px;
+}
+
+.inbox-after-send label
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:2px;
+}
+
+.email-send
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:12px;
+	border-bottom:1px solid #CCCCCC;
+	width:89%;
+}
+
+.email-date-input
+{
+	width:50%;
+}
+
+.attachment-file-add
+{
+	width:100%;
+}
+
+.inbox-attachment
+{
+   float:left;
+   padding-left:5px;
+   padding-bottom:2px;
+}
+
+.inbox-attachment a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+}
+
+.inbox-attachment a:hover
+{
+	text-decoration:underline;
+	color:#CC0000;
+}
+
+.inbox-message
+{
+	height:85px !important;
+	vertical-align:top;
+}
+
+.inbox-message p
+{
+	padding-left:5px;
+	padding-bottom:5px;
+	padding-top:5px;
+}
+
+.inbox-attachments
+{
+	
+}
+
+
+

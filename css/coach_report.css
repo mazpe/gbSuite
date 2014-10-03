@@ -1,0 +1,128 @@
+.name-report
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+}
+
+.date-report
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+	width:100%;
+}
+
+.header-report
+{
+	width:100%;	
+}
+
+.units
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.gross-profit
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.leads
+{
+	border:1px solid silver;
+	width:70%;
+}
+
+.title-table
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+	border-bottom:1px solid silver;
+}
+
+.header-field
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	border-bottom:1px solid silver;
+	text-align:center;
+}
+
+.data-field
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	text-align:center;
+}
+
+.positive-performance
+{
+	width:70%;
+}
+
+.opportunities
+{
+	width:70%;
+}
+
+.action-plan-items
+{
+	width:70%;
+}
+
+.follow-up-prior-month
+{
+	width:70%;
+}
+
+.title-list
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000066;
+	text-align:center;
+}
+
+.list
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	border-bottom:1px solid #000066;
+}
+
+.separator
+{
+	border-left:1px solid silver;
+	border-right:1px solid silver;
+	width:1px;
+}
+
+.sign-table
+{
+	width:70%;
+}
+
+.sign-row
+{
+	text-align:center;
+}
+
+.sign
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	border-top:1px solid #000066;
+	width:80%;
+}

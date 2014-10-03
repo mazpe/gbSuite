@@ -1,0 +1,183 @@
+.notifications
+{
+	width	: auto;
+	border-bottom	:	1px solid #CC0000;
+	background-color	:	#F7F7F7;
+}
+
+.notifications-header
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	text-align	: center;
+	border-bottom	:	1px solid  #CCCCCC; 
+	/*border-right	:	1px solid  #CCCCCC;*/ 
+}
+
+.notifications-header div
+{
+	float	:	left;	
+}
+
+.notifications-list
+{
+	width	:	350px;
+	text-align	:	left;
+}
+
+.notifications-view-all
+{
+	width	:	300px;
+	text-align	:	right;	
+}
+
+.notifications-view-all a
+{
+	font-weight	:	normal;
+	text-decoration	:	none;	
+}
+
+.notifications-table
+{
+	border-bottom	:	1px solid #CCCCCC;
+	width	:	100%;
+	margin-bottom	:	5px;
+	background	:	#FFFFFF;
+}
+
+.notifications-table td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	: 12px;
+	height	:	20px;
+	padding-left:3px;
+}
+
+.notifications-table a
+{
+	text-decoration	:	none;
+}
+
+.page-number
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	width	:	20px;
+	text-align	:	center;
+}
+
+.page-number a
+{
+	font-size	:	10px;
+	text-decoration	:	none;
+}
+
+#page2
+{
+	font-weight	:	bold;
+	background-color	:	#D8DFEA;
+}
+
+.bar-selector
+{
+	width	:	99%;
+}
+
+
+.notifications-message
+{
+	/*padding	:	5px;*/
+	width	: auto;
+	border	:	1px solid #CCCCCC;
+	background-color	:	#F7F7F7;
+}
+
+.notifications-title-item
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	width	:	auto;
+	height	:	20px;
+	background-color	:	#D8DFEA;
+	padding-left	:	1%;
+}
+
+.notifications-message-content
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	background-color	:	#FFFFFF;
+	border	:	1px solid #D8DFEA;
+	width	:	auto;
+	padding-left	:	1%;
+}
+
+.notifications-footer
+{
+	background-color	:	#F7F7F7;
+	width	:	auto;
+	height	:	25px;
+	text-align	:	left;
+}
+
+.notifications-footer input
+{
+	text-align	:	center;
+	width	:	120px;
+}
+
+.notification-compose-table
+{
+	background-color	:	#F7F7F7;
+	border	:	1px solid #CCCCCC;
+}
+
+/*.notification-compose-table
+{
+	width:30%;
+}*/
+
+.notification-compose-table textarea
+{
+	width	:	300px;
+}
+
+.subject-text
+{
+	width	:	300px;
+}
+
+.notifications-detail-table
+{
+	background-color: #FFFFFF;
+	width:100%;
+}
+
+.notifications-detail-data
+{
+	border-bottom: 1px solid #CCCCCC;
+	width:50%;;
+}
+
+.notifications-detail-date
+{
+	border-bottom: 1px solid #CCCCCC;
+	width:10%;
+}
+
+.notifications-image
+{
+	width:2%;
+	border-bottom:1px solid #cccccc;
+	padding-left:3px;
+}
+
+.notifications-button
+{
+	padding-bottom:5px;
+	padding-top:5px;
+	padding-left:3px;
+}
+
+

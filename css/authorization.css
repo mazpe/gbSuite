@@ -1,0 +1,86 @@
+.authorization
+{
+	border	:	1px solid #999999;
+	width	:	100%;
+}
+
+.authorization-title
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	14px;
+	font-weight	:	bold;
+	color	:	#000066;
+	text-align	:	center;
+}
+
+.authorization-subtitle
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000066;
+	text-align	:	center;
+}
+
+.table-content
+{
+	width	:	99%;
+	border-top	:	1px solid #CCCCCC;
+	border-bottom	:	1px solid #CCCCCC;
+	border-right	:	1px solid #CCCCCC;
+}
+
+.table-content td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#000066;
+	border-left	: 1px solid #CCCCCC;
+	padding-left	:	3px;
+}
+
+.table-content tr:hover
+{
+	background-color	:	#E1FFFF;
+}
+
+.cell-check
+{
+	text-align	:	center;
+	border-bottom	: 1px solid #CCCCCC;
+}
+
+.cell-check:hover
+{
+	background-color	:	#E8E8D2;
+}
+
+.title-cell
+{
+	border-bottom	: 1px solid #CCCCCC;
+}
+
+.header-field
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000000;
+	border-bottom	: 1px solid #CCCCCC;
+	text-align	:	center;
+	background-color	:	white;
+}
+
+.department-cell
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	background-color	:	white;
+}
+
+.department-cell:hover
+{
+	background-color	:	white;
+	/*border-bottom:1px solid #CCCCCC;*/
+}
+

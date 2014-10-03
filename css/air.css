@@ -1,0 +1,107 @@
+.air-table
+{
+	width	:	100%;
+	border-bottom	:	1px solid #CC0000;
+	background-color	:	#F7F7F7;
+}
+
+.air-title
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	white;
+	background-color	:	#6D84B4;
+	height	:	20px;
+	padding-left	:	2px;
+	padding-top	:	2px;
+}
+
+.air-rows-applications
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#3B5998;
+	width	:	100%;
+	border	:	1px solid #E9E9E9;
+	background-color	:	white;
+	
+}
+
+.air-request
+{
+	width	:	30%;
+}
+
+.air-request-person-list
+{
+	width	:	100%;
+	border:1px solid #E9E9E9;
+	background-color	:	white;	
+}
+
+.air-request-person-list td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#3B5998;	
+}
+
+.comments textarea
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#3B5998;
+	width	:	100%;
+}
+
+.comment-info
+{
+	border-top	:	1px solid #E9E9E9;
+}
+
+.comment-info p
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	background-color	:	#EEEEEE;
+	width	:	100%;
+}
+
+.button-rp
+{
+	text-align:center;
+}
+
+.button-rp input
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	10px;
+	font-weight	:	bold;
+}
+
+.fields-app
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	font-weight	:	bold;
+	text-align	:	center;
+	color	:	#3B5998;
+	background-color	:	#CCCCCC;
+}
+
+.list-app-user
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color	:	#3B5998;
+	width	:	100%;
+	border	:	1px solid #E9E9E9;
+	background-color	:	white;
+}
+
+
+
+
+
+

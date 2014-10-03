@@ -1,0 +1,49 @@
+.authorization
+{
+	border	:	1px solid #999999;
+	width	:	80%;
+}
+
+.authorization-title
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	14px;
+	font-weight	:	bold;
+	color	:	#000066;
+	text-align	:	center;
+}
+
+.authorization-subtitle
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000066;
+	text-align	:	center;
+}
+
+.table-content
+{
+	width	:	100%;
+	border	:	1px solid #CCCCCC;
+}
+
+.table-content td
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	11px;
+	color:#000066;
+}
+
+.table-content input
+{
+text-align:center;
+}
+
+.header-field
+{
+	font-family	:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	font-weight	:	bold;
+	color	:	#000000;
+}

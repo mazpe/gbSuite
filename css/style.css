@@ -1,0 +1,1618 @@
+body {
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    margin: 0;
+    padding: 0;
+	
+}
+/*a:link
+ {
+ color	:	#003399;
+ text-decoration	:	underline;
+ }
+ 
+ a:visited
+ {
+ color	:	#FF9900;
+ text-decoration	:	none;
+ }
+ 
+ a:hover
+ {
+ color	:	#003399;
+ text-decoration	:	none;
+ }
+ 
+ a:active
+ {
+ color	:	#003399;
+ text-decoration	:	underline;
+ }*/
+
+.menu-button
+{
+	height	: 22px;
+    float	: left;
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    color	: #FFFFFF;
+	font-weight	:	bold;
+    font-size	: 13px;
+    text-align	: center;
+	text-decoration	:	none;
+    padding-left	: 15px;
+    padding-right	: 15px;
+	line-height	:	22px;
+}
+
+.menu-button:hover 
+{
+    color	: #CC0000;
+    background-color: #FFFFE6;
+    /*-moz-opacity	:	0.3;
+     filter	: alpha(opacity=5) ;*/
+    text-decoration: none;
+}
+
+.logo 
+{
+    width: 97%;
+    border-bottom:1px solid #CC0000;
+    padding: 2px;
+    text-align: center;
+}
+
+.company-name {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color:  #CC0000;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.menu {
+    float: none;
+    width: 100%;
+    height: 22px;
+    /*border-style	:	solid;
+     border-color	:	black;
+     border-width	:	2px;*/
+    background-color: #CC0000;
+}
+
+.picture {
+    width: 96%;
+    height: 145px;
+    border: solid;
+    border-color: #E9E9E9;
+    border-width: 1px;
+    padding: 2px;
+    text-align: center;
+}
+
+.data-worker
+{
+width:100%;
+}
+
+.user-name-label
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#CC0000;
+}
+
+.sales-performance-header
+{
+	 font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	 text-align:right;
+}
+
+.sales-performance-container
+{
+	text-align:center;
+}
+
+.sales-performance-container label
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#CC0000;
+}
+
+.sales-performance-table
+{
+	margin-top:6px;
+}
+
+.sales-performance-table td
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	color:#666666; 
+}
+
+.sales-performance-table th
+{
+	color:#666666;
+}
+
+.lead-performance-label
+{
+	text-align:center;
+}
+
+.leads-performance-container
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:12px;
+color:#CC0000;
+}
+
+.leads-performance-container td
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+}
+
+.leads-performance-container th
+{
+	text-align:center;
+}
+
+.leads-performance-table-header
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	width:33%;
+}
+
+.leads-performance-table
+{
+	margin-top:6px;
+	width:100%;
+}
+
+.leads-performance-table td
+{
+color:#666666;
+}
+
+.leads-performance-header
+{
+	width:10%;
+}
+
+
+.data-employee
+{
+    /*font-family		:	Arial;
+     font-size	:	10px;*/
+    background-color: #FFFFE6;
+}
+
+.data-employee table {
+    /*margin-left: 5px;*/
+}
+
+.data-personal-employee table 
+{
+    /*margin-left: 10px;*/
+}
+
+.status-message
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	width	:	100%;
+	border-style	:	solid;
+	border-width	:	1px;
+	border-color	:	#E9E9E9;	
+	background-color	:	#FFFFE6;
+}
+
+.dstatus-message
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#3B5998;
+}
+
+.action-status-message
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	border-top: 1px solid #CC0000;
+	border-bottom: 1px solid #CC0000;
+	padding-left:10px;
+}
+
+.date-label
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:12px;
+	float:right;
+	padding-top:4px;
+}
+
+.status-message-label
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#666666;
+}
+
+.user-status-message
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#666666;
+}
+
+.status-message-button
+{
+	float	:	right;
+}
+
+.data-employee td 
+{
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 12px;
+	font-weight:bold;
+	color:#666666;
+}
+
+.data-employee b
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	color:#000000;
+}
+
+.data-personal-employee td 
+{
+    font-family: Arial;
+    font-size: 11px;
+}
+
+.data-employee a {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    background-color:#CC0000;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 1px;
+    border: outset;
+    border-width: 1px;
+}
+
+.data-employee a:hover 
+{
+    text-decoration: underline;
+    background-color:#CC0000;
+}
+
+.data-personal-employee 
+{
+    /*font-family		:	Arial;
+     font-size	:	8px;*/
+    /* border-bottom-style	:	solid;
+     border-width	:	1px;
+     border-bottom-color	:	#E9E9E9; */
+    background-color: #FFFFE6;
+}
+
+.leftcolumn {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    width: 154px;
+    float: left;
+	border:1px solid #CC0000;
+    background-color: #FFFFE6;
+    /*text-align	:	center;*/
+} 
+
+.leftcolumn .application-title {
+    font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	background-color: #CC0000;
+	font-size:12px;
+    color: white;
+}
+
+.content {
+    width: 845px;
+    float: left;
+	border:1px solid #CC0000;
+	background:#FFFFE6; 
+	z-index:1;
+}
+
+.table-page {
+	width: 1003px;
+    /*border: 1px solid #E9E9E9;*/
+	z-index:1;
+	padding-bottom:30px;
+}
+
+.page {
+    width: 1003px;
+    padding-bottom: 15px;
+    /*border	:	solid;
+     border-width	:	thick;
+     border-color	:#000066;*/
+    padding-bottom: 40px;
+}
+
+.agency-logo {
+    /*border-bottom:1 solid;
+    border-width: 1px;
+    border-color: #E9E9E9;*/
+    background-color: #FFFFE6;
+    text-align: center;
+}
+
+#report1 {
+    width: 40%;
+}
+
+#employee {
+    font-family: Arial;
+    font-size: 11px;
+}
+
+.friend a 
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    text-decoration: none;
+}
+
+.friend a:hover {
+    text-decoration: underline;
+}
+
+.friend:hover {
+    background-color: #E9E9E9;
+}
+
+.friend label {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;;
+    font-size: 12px;
+    color: #006666;
+}
+
+
+.friend-section a {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 10px;
+	font-weight:normal;
+
+}
+
+.friend-section a:hover {
+    text-decoration: none;
+}
+
+.friend-section-label {
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    padding-left: 5px;   
+}
+
+.friend-section-label a {
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    padding-right: 5px;
+}
+
+.friends-table
+{
+	margin-top: 5px;
+}
+
+.friends-table td{
+   	margin-bottom:10px;
+	border-style: solid;
+    border-width: 1px;
+    border-color: #E9E9E9;
+	border-bottom: 1px solid #E9E9E9;	
+}
+
+.friends-table td:hover {
+    border-color	:	#3B5998;
+    background-color: #E9E9E9;
+    color: blue;
+}
+
+.error-message {
+    background-color: white;
+    font-family: Arial;
+    border: solid;
+    border-color: white;
+}
+
+.message 
+{
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-weight	: bold;
+	padding-left	:	20px;
+}
+
+#form-set-button {
+    border-color	: #A8D3FF;
+    width	: 270px;
+    border	: solid;
+    width	: 180px;
+    height	: 20px;
+}
+
+#set-button 
+{
+    background-color	: #00FFFF;
+}
+
+input 
+{
+    font-family	: Arial;
+    font-size	: 11px;
+    font-weight	: bold;
+    color	: #003399;
+}
+
+.login {
+    font-family	: Arial;
+    font-size	: 10px;
+    color	: #3B5998;
+    width	: 575px;
+    padding	: 0px;
+    border-style	: solid;
+    border-width	: 2px;
+    border-color	: #E9E9E9;
+    padding-left	: 10px;
+    padding-right	: 10px;
+    padding-bottom	: 50px;
+}
+
+.login input 
+{
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-weight	: bold;
+}
+
+#access-user {
+    font-family	: Arial;
+    font-size	: 12px;
+    text-align	: right;
+    color	: #3B5998;
+    font-weight	: bold;
+}
+
+.start-login {
+    width	: 576px;
+    font-family	: Arial;
+    font-size	: 16px;
+    font-weight	: bold;
+    border-bottom-style	: solid;
+    border-width	: 1px;
+    border-bottom-color	: #E9E9E9;
+    text-align	: left;
+    color	: black;
+}
+
+.page-login {
+    width	: 576px;
+    border-style	: solid;
+    border-width	: 1px;
+    border-color	: #E9E9E9;
+    padding-left	: 10px;
+    padding-right	: 10px;
+    padding-bottom	: 50px;
+}
+
+.button-login {
+    background-color	: #CC0000;
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    color	: #FFFFFF;
+}
+
+.button-login:hover {
+    background-color	: #CC0000;
+}
+
+#access-user td {
+    text-align	: left;
+    width	: 70px;
+}
+
+.contact-register {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 11px;
+    font-weight	: bold;
+}
+
+.label {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    color	: #666666;
+    font-size	: 12px;
+    font-weight	: bold;
+}
+
+.check-login {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 12px;
+}
+
+.message-login {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 12px;
+    font-weight	: bold;
+    color	: red;
+}
+
+.links {
+    border-top-style	: solid;
+    border-top-color	: #E9E9E9;
+    border-bottom-style	: solid;
+    border-bottom-color	: #E9E9E9;
+    /*border-top-style	:	solid;
+     border-top-color	:	#E9E9E9;*/
+    border-width	: 1px;
+    list-style	: none;
+    margin	: 0;
+    padding	: 0;
+}
+
+.links li
+{
+	background-position	: left center;
+	background-repeat	:	no-repeat;
+    list-style-type	: none;
+    padding	: 7px 0pt 7px 25px;
+}
+
+.link-list
+{
+    margin	: 0;
+    padding	: 4px;
+}
+
+.top-report-list a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-weight:normal;
+	font-size:11px;
+	text-decoration:none;
+}
+
+.top-report-list
+{
+	margin:15px;
+	padding-left:10px;
+}
+
+.top-report-list li
+{
+	color:#3B5998;
+	font-weight:normal;
+	padding-bottom:5px
+}
+
+.top-report-list a:hover
+{
+	margin-left:0;
+	text-decoration:underline;
+}
+
+
+
+.menu-item {
+    background-position	: left center;
+    list-style-type	: none;
+}
+
+.menu-item:hover {
+    color	: #3B5998;
+    background-position	: left center;
+    list-style-type	: none;
+    text-decoration	: underline;
+}
+
+.link-list a {
+    font-size	: 10px;
+}
+
+.links li a {
+    text-decoration	: none;
+}
+
+.link-login li {
+    font-family	: Arial;
+    font-size	: 10px;
+    color	: #3B5998;
+    width	: 80px;
+    float	: left;
+}
+
+.link-login ul {
+    width	: 600px;
+    list-style-type	: none;
+}
+
+.header-bar {
+    background-image	: url(/images/resources/bg_header.gif);
+    margin	: 0;
+    height	: 24px;
+    padding	: 0px 10px;
+    width	: 100%;
+    padding	: 0;
+    border-bottom	: 1px solid #B5B5B5;
+}
+
+.footer-bar
+{
+background-image	: url(/images/resources/bg_header.gif);
+}
+
+.footer-bar-table
+{
+width:100%;
+}
+
+.footer-label
+{
+font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+font-size:11px;
+font-weight:bold;
+}
+
+.header-item {
+    font-family	: Arial;
+    font-weight	: bold;
+    font-size	: 11px;
+    float	: left;
+}
+
+.title {
+    /*background: url(/images/resources/arrow_down.gif);*/
+    background-position	: left;
+    background-repeat	: no-repeat;
+    font-family	: Arial;
+    font-size	: 12px;
+    color	: white;
+    background-color	: #666666;
+    text-align	: left;
+    padding-left	: 20px;
+}
+/*.title a
+ {
+ text-decoration	: none;
+ color	:white;
+ width	:100%;
+ font-size	:11px;
+ }
+ 
+ .title a:hover
+ {
+ text-decoration: none;
+ color:white;
+ width:100%;
+ font-size:11px;
+ }*/
+
+.sub-title {
+    font-family: Arial;
+    font-size: 11px;
+    color: black;
+    background-color: #AEAEAE;
+    font-weight: normal;
+    padding-left: 20px;
+}
+
+/*Codigo para footer estatico para firefox y IE*/
+
+#footer {
+    background-image: url(/images/resources/bg_footer.gif);
+    border: 1px solid #B5B5B5;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #666666;
+	width:100%;
+	z-index:99;
+	bottom: 0px;
+    right: 0px;
+	position:fixed;
+	text-align: left;
+	display:block;
+}
+
+html>body #footer
+{
+ position:fixed;
+ bottom:0;
+ z-index:10;
+}
+
+#footer 
+{
+ position:absolute;
+ z-index:10;
+ bottom:0px;
+}
+
+/*---------------------*/
+
+
+.edit_profile_form label 
+{
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #3B5998;
+}
+
+.edit_profile_form {
+    padding-left: 5px;
+}
+
+.edit_profile_form select {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;;
+    font-size: 11px;
+    font-weight: bold;
+    color: #003399;
+}
+
+
+.button-link {
+    font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    background-color: #CC0000;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 1px;
+    border: outset;
+    border-width: 1px;
+} 
+
+.button-link:hover {
+    background-color: #CC0000;
+    text-decoration: none;
+}
+
+.edit_profile_form table {
+    background-color: #F8F9FB;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E9E9E9;
+    padding-left: 5px;
+}
+
+.news-box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E9E9E9;
+}
+
+.day {
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #3B5998;
+    background-color: #E9E9E9;
+    border-bottom-color: #AEAEAE;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    padding-left: 15px;
+}
+
+.news-item {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 11px;
+    color	: #000066;
+    background-position	: left center;
+    background-repeat	: no-repeat;
+    list-style-position	: outside;
+    list-style-type	: none;
+    padding	: 7px 0pt 7px 25px;
+    /*background-position: 0px 10px 0px 0px;*/
+    margin-left: 30px;
+}
+
+.news-item a
+{
+	font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+}
+
+.box-title {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 12px;
+    font-weight	: bold;
+    color	: white;
+    background-color	: #3B5998;
+    padding-left	: 5px;
+}
+
+.header-label {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    color	: black;
+    font-size	: 12px;
+    /*font-weight	:	bold;*/
+    padding-top	: 4px;
+	float:left;
+}
+
+.reports {
+    border-style	: solid;
+    border-color	: #E9E9E9;
+    border-width	: 1px;
+    padding-left	: 14px;
+    height	: 400px;
+}
+
+div a {
+    font-family	: Arial;
+    font-size	: 12px;
+    color	: #3B5998;
+}
+
+links a:visited {
+    color	: #3B5998;
+}
+
+
+
+.config-title {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 14px;
+    font-weight	: bold;
+    padding-left	: 20px;
+    padding-bottom	: 5px;
+}
+
+.config-subtitle {
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 10px;
+    padding-left	: 20px;
+    padding-bottom	: 15px;
+}
+
+.config-table-item td
+{
+    border-top	: 1px solid #3B5998;
+    font-family	: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size	: 12px;
+    color	: #3B5998;
+    padding	: 5px;
+}
+
+.config-table-item a 
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    text-decoration	: none;
+}
+
+.config-table-item a:hover
+{
+    text-decoration	: underline;
+}
+
+.table-item 
+{
+	border-collapse	: collapse;
+    width	: 100%;
+    padding-left	: 20px;
+    padding-right	: 20px;
+    padding-bottom	: 10px;
+}
+
+.table-item tr:hover 
+{
+    background-color	: #E1FFFF;
+}
+
+.config-table {
+    border-bottom: 1px solid #CC0000;
+	background-color:#FFFFFF;
+    text-align: left;
+}
+
+a img {
+    border-width: 0;
+    border-style: none;
+}
+/**Home2**/
+/*.top
+ {
+ background-color	:	green;
+ }*/
+.top-left {
+    background-color: #FFFFE6;
+	border-bottom: 1px solid #E9E9E9;
+	width:30%;
+	vertical-align:top;
+	
+}
+
+.top-center {
+    
+    background-color: #FFFFE6;
+    border-bottom-style: solid;
+    border-bottom-color: #E9E9E9;
+    border-bottom-width: 1px;
+	width:35%;
+	vertical-align:top;
+	padding-top:1px;
+}
+
+.top-center .application-title {
+    background-color: #3B5998;
+    color: white;
+}
+
+.top-right {
+    background-color: #FFFFE6;
+    border-bottom-style: solid;
+    border-bottom-color: #E9E9E9;
+    border-bottom-width: 1px;
+	width:35%;
+	vertical-align:top;
+	padding-top:5px;
+}
+
+
+
+.left {
+    float: left;
+    height: 90%;
+    background-color: red;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.main {
+    height: 90%;
+}
+
+.main .application-title {
+    background-color: #CC0000;
+    color: white;
+}
+
+.main .application 
+{
+    margin-top: 10px;
+	overflow:auto;	
+}
+
+.right 
+{
+    height: 90%;
+    float: right;
+    background-color: yellow;
+}
+
+.bottom {
+    height: 10%;
+    float: inherit;
+    background-color: pink;
+}
+
+.application {
+    /*border	:	solid;*/
+    /*position: relative;*/
+    /*border	: 1px solid #eee;*/
+    /*border-right	: 1px solid #ddd;
+     border-bottom	: 1px solid #ddd;*/
+    /*background-color: #fff;*/
+    background-position: left top;
+    background-repeat: no-repeat;
+	
+}
+
+.application-title {
+    /*color:White;*/
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color	:	white;
+    padding-left: 5px;
+    background-color: #3B5998;
+}
+
+.application-content {
+    background-color: #E9E9E9;
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.application table 
+{
+    font-family: Arial;
+    font-size: 11px;
+    color: #3B5998;
+}
+
+.application th {
+    font-family: Arial;
+    font-size: 11px;
+    color: #000000;
+}
+
+.application-list-item
+{
+	font-family	:	"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size	:	12px;
+	color	:	#3B5998;
+	border-bottom	:	1px solid #3B5998;
+	cursor	: move;
+	/*margin : 10px;*/
+	list-style	:	none;
+}
+
+
+.pop_dialog_table
+{
+	border-style:solid;
+	border-width:1px;
+	border-color:#E9E9E9;
+}
+
+.dialog_body
+{
+	font-family:Arial;
+	font-size:11px;
+	color:#3B5998;
+}
+
+.pop_content
+{
+	font-family:Arial;
+	font-size:14px;
+	color:#3B5998;
+}
+
+#app1234567_application-associates-permission table
+{
+	background-color	:	#F8F9FB;
+	border	: 1px solid #D5D5D5;
+	width:413px;
+}	
+
+#app1234567_application-associates-permission th
+{
+	font-family	:	Arial;
+	font-size	:	11px;
+	color	:	#3B5998;
+}
+
+#app1234567_associates-list1
+{
+	font-family	:	Arial;
+	font-size	:	11px;
+	color	:	#3B5998;
+}
+
+#app1234567_associates-list2
+{
+	font-family	:	Arial;
+	font-size	:	11px;
+	color	:	#3B5998;
+}
+
+.associates-list
+{
+	font-family	:	Arial;
+	font-size	:	11px;
+	color	:	#3B5998;
+	background: #f7f7f7;
+	border: 1px solid gray;
+	cursor	:	hand;
+	list-style: none;
+	margin	:	0;
+	padding-bottom:20px;
+	width	:	150px;
+	/*height	:	280px;*/
+}
+
+.label-global /*para etiquetas de las ventanas*/
+{
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+    color: #3B5998;
+}
+
+.invalid-password-message
+{
+font-family:Arial;
+font-size:11px;
+color:red;
+}
+
+.profile-status-message
+{
+	font-family:Arial;
+	font-size:12px;
+	color:red;
+}
+
+.app-content
+{
+	background-color:#FFFFFF;
+}
+
+.support-content
+{
+	font-size:12px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.lead-number
+{
+	text-align:right;
+	padding-right: 10px;
+}
+
+.user-links
+{
+	margin-bottom:5px;
+	margin-top:5px;	
+}
+
+.user-links-url
+{
+	margin-bottom:5px;	
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	color:#3B5998;
+	font-weight:normal;
+}
+
+.user-links-url a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	color:#3B5998;
+	font-weight:normal;
+	padding-left: 5px;
+	text-decoration:none;
+}
+
+.user-links-url a:hover
+{
+	text-decoration:underline;
+}
+
+.add-link
+{
+	text-align:right;
+	padding-right:5px;
+}
+
+.add-link a
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 10px;
+	color:#CC0000;
+	font-weight:normal;
+	text-align:right;	
+}
+
+.title-add
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	color:#3B5998;
+	font-weight:bold;
+	text-align:left;
+	padding-left:5px;
+}
+
+.title-add-window
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	color:#3B5998;
+	font-weight:bold;
+	text-align:center;
+}
+
+.table-add
+{
+	margin-top:5px;
+	width:100%;
+	
+}
+
+.table-add-input
+{
+	width:22%;
+	padding-left:4px;
+	padding-bottom:2px;
+}
+
+.table-add-button
+{
+	width:22%;
+	
+}
+
+.table-add-check
+{
+	width:8%;
+	text-align:center;
+}
+
+.url-edit
+{
+	width:85%;
+}
+
+.password-edit
+{
+	width:60%;
+}
+
+
+.config-table-add
+{
+	width:100%;
+	margin-top:5px;
+	border-bottom:1px solid #3B5998;
+}
+
+.config-table-item-space
+{
+	
+	padding:2px !important;
+	padding-left:5px !important;
+}
+
+.config-table-item-url
+{
+width:80%;	
+}
+.navigator
+{
+	width:100%;
+	height:500px;
+}
+
+
+/*Report Trade In*/
+
+.trade-in-report
+{
+border:1px solid #CCCCCC;
+width:100%;
+background-color:#ffffff;
+}
+
+.trade-title-report
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	text-align:center;	
+}
+
+.trade-header-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#3B5998;
+	font-weight:bold;
+	border-bottom:1px solid #CCCCCC;
+	border-top:1px solid #CCCCCC;
+	text-align:center;
+	border-right:1px solid #CCCCCC;
+}
+
+
+.trade-info-data
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#3B5998;
+	border-right:1px solid #CCCCCC;
+}
+
+
+.trade-model
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#3B5998;
+	padding-left:5px;
+	border-right:1px solid #CCCCCC;
+}
+
+/*reporte Daily Sales Analysis*/
+
+.dsa-container
+{
+	overflow:auto;
+	clear:both;
+	width:100%;
+}
+
+.daily-sales-analysis
+{
+ border-top:1px solid #cccccc;
+ border-left:1px solid #cccccc;
+ border-bottom:1px solid #cccccc;
+ width:100%;
+ background:#FFFFFF;
+}
+
+
+.daily-sales-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #CCCCCC;
+}
+
+
+.daily-sales-header
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#000066;
+	font-weight:bold;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+
+
+}
+
+.daily-sales-data
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#000066;
+	border-right:1px solid #cccccc;
+}
+
+
+/*Reporte de New Log*/
+.new-log
+{
+ border-top:1px solid #cccccc;
+ border-left:1px solid #cccccc;
+ border-bottom:1px solid #cccccc;
+ width:100%;
+ background:#FFFFFF;
+}
+
+
+.new-log-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #CCCCCC;
+}
+
+
+.new-log-header
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	font-weight:bold;
+	border-bottom:1px solid #cccccc;
+	border-right:.5px solid #cccccc;
+
+
+}
+
+.new-log-data
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	border-right:.5px solid #cccccc;
+
+}
+
+
+/*Reporte de Used Log*/
+
+.used-log
+{
+ border-top:1px solid #cccccc;
+ border-left:1px solid #cccccc;
+ border-bottom:1px solid #cccccc;
+ width:100%;
+ background:#FFFFFF;
+}
+
+
+.used-log-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #CCCCCC;
+}
+
+
+.used-log-header
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	font-weight:bold;
+	border-bottom:1px solid #cccccc;
+	border-right:.5px solid #cccccc;
+	
+
+}
+
+.used-log-data
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	border-right:.5px solid #cccccc;
+	
+}
+
+/*Reporte Used Log Old*/
+
+.used-log-old
+{
+ border-top:1px solid #cccccc;
+ border-left:1px solid #cccccc;
+ border-bottom:1px solid #cccccc;
+ width:100%;
+ background:#FFFFFF;
+}
+
+
+.used-log-old-title
+{
+	font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #CCCCCC;
+}
+
+
+.used-log-old-header
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	font-weight:bold;
+	border-bottom:1px solid #cccccc;
+	border-right:.5px solid #cccccc;
+	
+}
+
+.used-log-old-data
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:10px;
+	color:#3B5998;
+	border-right:.5px solid #cccccc;
+}
+
+/*Administration Profile*/
+
+.admin-profile
+{
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	width:100%;
+}
+
+.admin-profile-header
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#3B5998 !important;
+	border-bottom:1px solid #CCCCCC;
+}
+
+.admin-profile-username
+{
+	padding-left: 5px;
+}
+
+.admin-profile-header td
+{
+	border-bottom:1px solid #CCCCCC;
+}
+
+.admin-profile-select
+{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size:11px;
+	color:#000000;
+}
+
+.admin-bottom
+{
+	padding-top:10px;
+	padding-bottom:5px;
+}
+
+/*online users*/
+
+.online-user
+{
+	border:1px solid #cccccc;
+	width:130px;
+	overflow:auto;
+	overflow-y:scroll;
+	background-color:#FFFFE6;
+	z-index:99;
+	bottom: 0px;
+    right: 0px;
+	position:absolute;
+	text-align: left;
+	
+}
+
+.online-title
+{
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	color:#ffffff;
+	font-weight:bold;
+	border-bottom: 1px solid #cccccc;
+	background-color:#CC0000;
+	padding-left:2px;
+}
+
+.online-user-name
+{
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	color:#3B5998;
+	padding-left:3px;
+}
+
+.online-user-name a
+{
+	text-decoration:none;
+}
+
+.online-user-name a:hover
+{
+	text-decoration: underline;
+	color:#CC0000;
+}
+
+
+.online-user-row
+{
+	height:21px;
+	vertical-align:middle;
+}
+
+.online-state
+{
+	padding-left:2px;
+}
+
